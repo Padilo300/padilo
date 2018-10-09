@@ -1,0 +1,22 @@
+{
+    "name": "padilo.pro",
+    "short_name": "padilo",
+    "description": "Падило Константин Русланович",
+    "background_color": "#000",
+    "lang": "ru",
+    "start_url": "/index.php",
+    "icons": [
+        {
+            "src": "/img/ico/android-chrome-192x192.png?v=E6558lKWMW",
+            "sizes": "192x192",
+            "type": "image/png"
+        },
+        {
+            "src": "/img/ico/android-chrome-512x512.png?v=E6558lKWMW",
+            "sizes": "512x512",
+            "type": "image/png"
+        }
+       ],
+    "display": "fullscreen",
+    "theme_color": "#000"
+  }
